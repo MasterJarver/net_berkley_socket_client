@@ -3,15 +3,7 @@
 * email: oleh.korshun@gmail.com
 */
 #include <iostream>
-#include <string>
 #include <boost/asio/ip/address.hpp>
-#include <getfilesize.h>
-#include <unistd.h>
-#include <memory>
-#include <sys/types.h>
-#include <arpa/inet.h>
-#include <sys/socket.h>
-#include <netinet/in.h>
 #include "nameaddresscontainer.h"
 #include "client.h"
 #include <memory>
