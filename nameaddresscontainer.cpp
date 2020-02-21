@@ -2,9 +2,6 @@
 
 const int kMaxArgumentCount = 4;
 const int kMinArgumentCount = 1;
-const int kSize = 1024;
-const int kPort = 12345;
-const int kWhence = 1024;
 
 bool NameAddressContainer::c_error = false;
 

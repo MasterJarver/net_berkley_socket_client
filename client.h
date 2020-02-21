@@ -6,7 +6,6 @@
 #include <boost/asio/ip/address.hpp>
 #include <getfilesize.h>
 #include <unistd.h>
-#include <memory>
 #include <sys/types.h>
 #include <arpa/inet.h>
 #include <sys/socket.h>
